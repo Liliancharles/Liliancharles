@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liliancharles
 - 👀 I’m interested in data 
-- 🌱 I’m currently learning data analytics with dahel Tech
+- 🌱 I’m currently learning data analytics at dahel Tech
 - 💞️ I’m looking to collaborate on projects on data analysis 
 - 📫 How to reach me ...
 - 😄 Pronouns: She
